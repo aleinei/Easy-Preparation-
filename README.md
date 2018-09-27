@@ -14,4 +14,11 @@
 
 7-  if the finished item was the final item in the requested items and all the colour codes are green, First Activity should appear with the remaining unfinished orders
 
-8-  This application should enable the user to navigate through all pending orders and their requested items, in the meaning that if an item has been prepared, the user can jump to it to indicated it is prepared
+8-  This application should enable the user to navigate through all pending orders and their requested items, in the meaning that if an item has been prepared, the user can jump to it to indicate it is prepared.
+
+9-  The application should have a menu that would include the settings of the server IP, the database name, the Department (i.e. Kitchen, Bar, Shisha, Grill, Shawerma, etc....).
+
+10- This application is [Private] and LAN based application that works only within the premises of the Merchant
+
+11- Each order's label and requested item's labe should show the elapsed time since order, the color code of these labels should change according to elapsed time.
+
